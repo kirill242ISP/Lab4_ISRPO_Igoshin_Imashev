@@ -16,7 +16,7 @@
 //     {
 //         Console.WriteLine("Привет!");
 //         Console.WriteLine("ФИО: Имашев Наиль Игошин Кирилл");
-//         Console.WriteLine("Группа: ИСРПО-21-1");
+//         Console.WriteLine("Группа: ИСП-242");
 //         Console.WriteLine("Дата и время: " + DateTime.Now);
 //     }
 // }
@@ -45,8 +45,8 @@ class Program
     static void Main()
     {
         Console.WriteLine("Привет!");
-        Console.WriteLine("ФИО: Иванов Иван Иванович");
-        Console.WriteLine("Группа: ИСРПО-21-1");
+        Console.WriteLine("ФИО: Игошин Имашев");
+        Console.WriteLine("Группа: ИСП-242");
         Console.WriteLine("Дата и время: " + DateTime.Now);
 
         while (true)
@@ -63,10 +63,10 @@ class Program
             switch (choice)
             {
                 case "1":
-                    Console.WriteLine("ФИО: Иванов Иван Иванович");
+                    Console.WriteLine("ФИО: Игошин Кирилл Имашев Наиль");
                     break;
                 case "2":
-                    Console.WriteLine("Группа: ИСРПО-21-1");
+                    Console.WriteLine("Группа: ИСП-242");
                     break;
                 case "3":
                     Console.WriteLine("Дата и время: " + DateTime.Now);
