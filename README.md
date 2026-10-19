@@ -1,8 +1,8 @@
-# яллЛабораторная работа №4 — Git, Markdown, терминал и структура проекта
+# Лабораторная работа №4 — Git, Markdown, терминал и структура проекта
 
 **ФИО:** Игошин Кирилл, Имашев Наиль
 **Группа:** ИСП-242
-**Дата:** 2026-10-07
+**Дата:** 07.10.2026
 
 ---
 
@@ -43,8 +43,10 @@ Lab4_ISP_FIO/
 │   ├── browser_Igoshin_Imashev.png
 │   ├── backend_Igoshin_Imashev.png
 │   ├── terminal_Igoshin_Imashev.png
-│   └── git_Igoshin_Imashev.png
+│   └── history_Igoshin_Imashev.png
 ├── server/
+│   ├── bin
+│   ├── obj
 │   ├── program.cs
 │   └── server.csproj
 ├── terminal_practice/
@@ -104,7 +106,7 @@ dotnet run
 ### Код
 
 ```bash
-git status
+git push
 ```
 
 ---
@@ -149,4 +151,3 @@ $$
 - работы со структурой проекта (client, server, docs, repo, terminal_practice);
 - запуска консольного приложения на C# (.NET).
 
-Все требования лабораторной работы выполнены в полном объёме.
