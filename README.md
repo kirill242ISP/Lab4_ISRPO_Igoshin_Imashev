@@ -131,11 +131,11 @@ $$
 
 ![Браузер](./repo/browser_Igoshin_Imasev.png)
 
-![Backend](backend_Igoshin_Imashev.png)
+![Backend](./repo/backend_Igoshin_Imashev.png)
 
-![Терминал](repo/terminal_FIO.png)
+![Терминал](.repo/terminal_igoshin_imashev.png)
 
-![История коммитов](repo/git_FIO.png)
+![История коммитов](.repo/history_commit_igoshin_imashev.png)
 
 ---
 

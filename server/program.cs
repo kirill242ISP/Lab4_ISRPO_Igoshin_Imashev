@@ -1,6 +1,4 @@
-﻿// using System;
-
-// class Program
+﻿// class Program
 // {
 //     static void Main()
 //     {
@@ -8,8 +6,6 @@
 //         Console.WriteLine("ФИО: Имашев Наиль, Игошин Кирилл");
 //     }
 // }
-// using System;
-
 // class Program
 // {
 //     static void Main()
@@ -20,8 +16,6 @@
 //         Console.WriteLine("Дата и время: " + DateTime.Now);
 //     }
 // }
-// using System;
-
 // class Program
 // {
 //     static void Main()
@@ -38,8 +32,6 @@
 //         Console.WriteLine("4 — Выход");
 //     }
 // }
-using System;
-
 class Program
 {
     static void Main()
