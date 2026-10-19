@@ -40,10 +40,10 @@ Lab4_ISP_FIO/
 │   ├── latex_examples.md
 │   └── markdown_examples.md
 ├── repo/
-│   ├── browser_FIO.png
-│   ├── backend_FIO.png
-│   ├── terminal_FIO.png
-│   └── git_FIO.png
+│   ├── browser_Igoshin_Imashev.png
+│   ├── backend_Igoshin_Imashev.png
+│   ├── terminal_Igoshin_Imashev.png
+│   └── git_Igoshin_Imashev.png
 ├── server/
 │   ├── program.cs
 │   └── server.csproj
