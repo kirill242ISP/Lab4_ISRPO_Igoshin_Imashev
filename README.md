@@ -133,9 +133,9 @@ $$
 
 ![Backend](./repo/backend_Igoshin_Imashev.png)
 
-![Терминал](.repo/terminal_igoshin_imashev.png)
+![Терминал](./repo/terminal_igoshin_imashev.png)
 
-![История коммитов](.repo/history_commit_igoshin_imashev.png)
+![История коммитов](./repo/history_commit_igoshin_imashev.png)
 
 ---
 
